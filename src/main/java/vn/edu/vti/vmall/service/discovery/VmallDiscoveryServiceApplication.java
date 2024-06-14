@@ -1,4 +1,4 @@
-package vn.edu.vti.vmall.discovery.service;
+package vn.edu.vti.vmall.service.discovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package vn.edu.vti.vmall.discovery.service;
+package vn.edu.vti.vmall.service.discovery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
