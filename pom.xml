@@ -10,7 +10,7 @@
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
   <groupId>vn.edu.vti.vmall</groupId>
-  <artifactId>vmall_discovery_service</artifactId>
+  <artifactId>vmall-discovery-service</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>vmall_discovery_service</name>
   <description>vmall_discovery_service</description>
